@@ -135,6 +135,12 @@ export default {
         opensWith: "apps:AudioPlayer",
         icon: "fileAudio",
       },
+      flac: {
+        type: "audio",
+        label: "FLAC audio",
+        opensWith: "apps:AudioPlayer",
+        icon: "fileAudio",
+      },
       shrt: {
         type: "text",
         label: "Desktop shortcut",
